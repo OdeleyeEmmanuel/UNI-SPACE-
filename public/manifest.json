@@ -1,0 +1,14 @@
+{
+  "name": "Coursemate",
+  "short_name": "Coursemate",
+  "description": "Find your course, everywhere. Connect with students in your discipline across every university.",
+  "start_url": "/home",
+  "display": "standalone",
+  "background_color": "#FAF7F0",
+  "theme_color": "#14213D",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
